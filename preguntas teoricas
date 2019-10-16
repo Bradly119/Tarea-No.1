@@ -1,0 +1,22 @@
+19. ¿Cuál es la finalidad de la instrucción while?¿Cual es evaluada la expresión logica?
+¿Cuál es el mínimo número de veces que se puede ejecutar un bucle while? 
+- while sirve para repetir un número determinado de veces un conjunto de instrucciones 
+siempre y cuando se cumpla una condición. 
+-El ciclo while puede no repertirse si quiera una vez, pues, es necesario que se cumpla 
+una condición para que pueda ejecutarse y si no se cumple nunca se ejecuta. 
+20.- ¿Cuál es la finalidad de la instrucción do - while?¿En qué difiere de la instrucción while? 
+-Esa instrucción también nos permite repetir un conjunto de instrucciones  una  vez o las vecesque se requiera. 
+-La diferencia con el comando while es que el do – while puede ejecutarse una vez sinn necesidad 
+de que una condición sea verdadera, para que continue repitiendose más de una vez es necesario que la condición sea verdadera.
+21.- ¿Cuál es el mínimo número de veces que se puede ejecutar un bucle do - while? Compararlo con un bucle 
+while y explicar las razones por las que se diferencian. 
+El ciclo do – while se puede ejecutar mínimo una vez, a comparación del ciclo while que necesita que 
+su condición se cumpla para que pueda ejecutar. 
+22.- ¿Cuál es la finalidad de la instrucción for? ¿En qué se distingue de las instrucciones while y do - while? 
+La función permite itirenar valores a una variable en pocas líneas de código, necesita 3 parámetros que 
+son para inicializar la variable la cual va a estar cambiando durante se este ejecutando el ciclo for, el segundo sirve 
+como condición para detener el ciclo y el ultimo es para poner una operación o la manera en que la variable mencionada 
+cambiara su valor durante el ciclo. 
+La principal diferencia de for comparado con los ciclos do – while y while es que este se ejecuta sin una 
+condición inicial la mayoría de veces, además, tiene tres parámetros a diferencia de los otros, aunque este también puede 
+carecer de estos y volverse un ciclo infinito.
